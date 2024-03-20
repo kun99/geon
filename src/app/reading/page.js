@@ -13,7 +13,7 @@ export default function Reading() {
       <section>
         <h2 class="text-xl font-bold mb-8">recent reading</h2>
         <p>
-          I'm really into learning about the history and culture of different
+          I&apos;m really into learning about the history and culture of different
           countries and peoples. I typically tend to consume literature that
           helps me broaden my knowledge in these areas.{" "}
         </p>

@@ -11,9 +11,9 @@ export default function Home() {
       </div>
 
       <section>
-        <h1 class="text-xl font-bold mb-8">hello, I'm Geon 👋</h1>
+        <h1 class="text-xl font-bold mb-8">hello, I&apos;m Geon 👋</h1>
         <p>
-          I'm a budding software engineer and football enthusiast (COYS!) who
+          I&apos;m a budding software engineer and football enthusiast (COYS!) who
           enjoys working on random projects that just spring to mind. I
           currently am a student in Mahidol University International College,
           and will be graduating by the end of the year.{" "}

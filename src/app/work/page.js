@@ -13,8 +13,8 @@ export default function Work() {
       <section>
         <h2 class="text-xl font-bold mb-8">my work history</h2>
         <p>
-          I'm aiming to put my skills to the test in a professional enterprise
-          environment, where I can apply everything I've learned so far. My main
+          I&apos;m aiming to put my skills to the test in a professional enterprise
+          environment, where I can apply everything I&apos;ve learned so far. My main
           goal is to soak up as much knowledge and experience as I can from
           whichever company is willing to give me a chance. 😁
         </p>
@@ -27,7 +27,7 @@ export default function Work() {
             Vue.js frameworks with focus on writing SQL queries for a versatile
             filtering feature. Software objective was to make the trolley
             recording process quicker, and to allow easy monitoring of trolleys
-            that haven't returned within their expected time frame. The software
+            that haven&apos;t returned within their expected time frame. The software
             receives input data through a QR code scanner, which reads unique QR
             codes assigned to each trolley. This data is then stored locally in
             an embedded H2 database.
