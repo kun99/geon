@@ -5,10 +5,10 @@ export default function Work() {
     <main className="flex flex-col min-h-screen max-w-2xl pt-20 lg:mx-auto">
       <div class="mb-20 items-start w-full">
         <nav class="flex flex-row gap-x-4 ">
-          <Link href="/">home</Link>
-          <Link href="/work">work</Link>
-          <Link href="/projects">projects</Link>
-          <Link href="/reading">reading</Link>
+        <Link href="/geon">home</Link>
+          <Link href="/geon/work">work</Link>
+          <Link href="/geon/projects">projects</Link>
+          <Link href="/geon/reading">reading</Link>
         </nav>
       </div>
 
