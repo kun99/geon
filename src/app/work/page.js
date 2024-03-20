@@ -25,12 +25,12 @@ export default function Work() {
           <p class="mt-4 text-base">
             Developed a trolley tracking software using the Spring Boot and
             Vue.js frameworks with focus on writing SQL queries for a versatile
-            filtering feature. Implemented a key feature that displayed data for
-            trolleys that haven't returned within their expected time frame. The
-            software receives input data through a QR code scanner, which reads
-            unique QR codes assigned to each trolley. This data is then stored
-            locally in an embedded H2 database, meeting specific constraints set
-            by the client.
+            filtering feature. Software objective was to make the trolley
+            recording process quicker, and to allow easy monitoring of trolleys
+            that haven't returned within their expected time frame. The software
+            receives input data through a QR code scanner, which reads unique QR
+            codes assigned to each trolley. This data is then stored locally in
+            an embedded H2 database.
           </p>
           <p class="mt-4 text-sm">
             Stack: Spring Boot, Vue.js, H2 database, Java, HTML/CSS, Javascript,

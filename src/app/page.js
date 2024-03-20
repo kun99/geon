@@ -16,7 +16,7 @@ export default function Home() {
           I'm a budding software engineer and football enthusiast (COYS!) who
           enjoys working on random projects that just spring to mind. I
           currently am a student in Mahidol University International College,
-          and am starting an internship in Agoda on May.{" "}
+          and will be graduating by the end of the year.{" "}
         </p>
         <div class="mt-5">
           <ul class="flex flex-row gap-x-3">
@@ -35,14 +35,6 @@ export default function Home() {
                 class="decoration-red-400 underline"
               >
                 Email
-              </a>
-            </li>
-            <li>
-              <a
-                href=""
-                class="decoration-yellow-400 underline"
-              >
-                Resume
               </a>
             </li>
           </ul>

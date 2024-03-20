@@ -13,9 +13,9 @@ export default function Projects() {
       <section>
         <h2 class="text-xl font-bold mb-8">some projects</h2>
         <p>
-          I mostly spend time on random, smaller projects that were built out of
-          impulse. But here are some of the more notable ones. You can check out
-          other projects I have in my{" "}
+          I mostly spend time making random, smaller projects out of impulse.
+          But here are some of the more notable ones. You can check out other
+          projects I have in my{" "}
           <a
             href="https://github.com/kun99"
             target="_blank"
