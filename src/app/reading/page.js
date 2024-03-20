@@ -1,21 +1,23 @@
+import Link from "next/link";
+
 export default function Reading() {
   return (
     <main className="flex flex-col min-h-screen max-w-2xl pt-20 lg:mx-auto">
       <div class="mb-20 items-start w-full">
         <nav class="flex flex-row gap-x-4 ">
-          <a href="/">home</a>
-          <a href="/work">work</a>
-          <a href="/projects">projects</a>
-          <a href="/reading">reading</a>
+          <Link href="/">home</Link>
+          <Link href="/work">work</Link>
+          <Link href="/projects">projects</Link>
+          <Link href="/reading">reading</Link>
         </nav>
       </div>
 
       <section>
         <h2 class="text-xl font-bold mb-8">recent reading</h2>
         <p>
-          I&apos;m really into learning about the history and culture of different
-          countries and peoples. I typically tend to consume literature that
-          helps me broaden my knowledge in these areas.{" "}
+          I&apos;m really into learning about the history and culture of
+          different countries and peoples. I typically tend to consume
+          literature that helps me broaden my knowledge in these areas.{" "}
         </p>
         <hr class="my-5 border-neutral-300"></hr>
         <div class="mt-5">

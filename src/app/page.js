@@ -1,12 +1,14 @@
+import Link from "next/link";
+
 export default function Home() {
   return (
     <main className="flex flex-col min-h-screen max-w-2xl pt-20 lg:mx-auto">
       <div class="mb-20 items-start w-full">
         <nav class="flex flex-row gap-x-4 ">
-          <a href="/">home</a>
-          <a href="/work">work</a>
-          <a href="/projects">projects</a>
-          <a href="/reading">reading</a>
+          <Link href="/">home</Link>
+          <Link href="/work">work</Link>
+          <Link href="/projects">projects</Link>
+          <Link href="/reading">reading</Link>
         </nav>
       </div>
 
