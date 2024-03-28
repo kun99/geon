@@ -42,7 +42,7 @@ export default function Projects() {
               </p>
               <p class="mt-4 text-sm">
                 Stack: FastAPI, Vue.js, Python, HTML/CSS, Javascript, Tailwind,
-                Firebase/Firestore
+                Firebase, AWS Lambda, API Gateway
               </p>
             </div>
           </li>

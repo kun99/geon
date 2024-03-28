@@ -16,7 +16,7 @@ export default function Reading() {
         <h2 class="text-xl font-bold mb-8">recent reading</h2>
         <p>
           I&apos;m really into learning about the history and culture of
-          different countries and peoples. I typically tend to consume
+          different countries and <a href=""></a>peoples. I typically tend to consume
           literature that helps me broaden my knowledge in these areas.{" "}
         </p>
         <hr class="my-5 border-neutral-300"></hr>
