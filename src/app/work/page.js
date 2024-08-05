@@ -22,23 +22,35 @@ export default function Work() {
         </p>
         <hr class="my-5 border-neutral-300"></hr>
         <div class="mt-5">
-          <div class="text-lg font-semibold">Daechang Hi-Tech</div>
-          <div class="text-sm">Contract, December 2023- March 2024</div>
+          <div class="text-lg font-semibold">Agoda</div>
+          <div class="text-sm">Software Engineer Intern (Backend), May 2024 - August 2024</div>
           <p class="mt-4 text-base">
-            Developed a trolley tracking software using the Spring Boot and
-            Vue.js frameworks with focus on writing SQL queries for a versatile
-            filtering feature. Software objective was to make the trolley
-            recording process quicker, and to allow easy monitoring of trolleys
-            that haven&apos;t returned within their expected time frame. The
-            software receives input data through a QR code scanner, which reads
-            unique QR codes assigned to each trolley. This data is then stored
-            locally in an embedded H2 database.
+          Joined the Fintech team as a backend software engineer intern but 
+          ended up dabbling in UI and frontend a decent amount as well. Worked on 
+          two different tools for the finance back-office platform: trade payout 
+          and generic adjustment, and played a modest role in the 
+          LLM Documenter project by using GitLab APIs to detect changes in 
+          files and automate commits for updated documentation generated 
+          through an LLM.
           </p>
           <p class="mt-4 text-sm">
-            Stack: Spring Boot, Vue.js, H2 database, Java, HTML/CSS, Javascript,
-            Tailwind, SQL
+            Stack: Play, Ktor, React, Scala, Kotlin, TypeScript, HTML/CSS, SQL, SQL Server
           </p>
         </div>
+        <hr class="my-5 border-neutral-300"></hr>
+        <div class="mt-5">
+          <div class="text-lg font-semibold">Daechang Hi-Tech</div>
+          <div class="text-sm">Contract, December 2023 - March 2024</div>
+          <p class="mt-4 text-base">
+            Developed and maintained a QR code-based trolley management system using
+            Spring Boot and Vue.js with focus on writing SQL queries for a H2 database
+            for a versatile filtering feature.
+          </p>
+          <p class="mt-4 text-sm">
+            Stack: Spring Boot, Vue.js, Java, HTML/CSS, JavaScript, Tailwind, SQL, H2
+          </p>
+        </div>
+        <br></br>
       </section>
     </main>
   );
